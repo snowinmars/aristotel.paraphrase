@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aristotel.paraphrase/static/css/main.7926e81d.chunk.css",
+    "main.js": "/aristotel.paraphrase/static/js/main.511eddaf.chunk.js",
+    "main.js.map": "/aristotel.paraphrase/static/js/main.511eddaf.chunk.js.map",
+    "runtime-main.js": "/aristotel.paraphrase/static/js/runtime-main.53172e43.js",
+    "runtime-main.js.map": "/aristotel.paraphrase/static/js/runtime-main.53172e43.js.map",
+    "static/js/2.a0540e31.chunk.js": "/aristotel.paraphrase/static/js/2.a0540e31.chunk.js",
+    "static/js/2.a0540e31.chunk.js.map": "/aristotel.paraphrase/static/js/2.a0540e31.chunk.js.map",
+    "index.html": "/aristotel.paraphrase/index.html",
+    "precache-manifest.b0994d38ecdbb197fdc02766eb7e5dc1.js": "/aristotel.paraphrase/precache-manifest.b0994d38ecdbb197fdc02766eb7e5dc1.js",
+    "service-worker.js": "/aristotel.paraphrase/service-worker.js",
+    "static/css/main.7926e81d.chunk.css.map": "/aristotel.paraphrase/static/css/main.7926e81d.chunk.css.map",
+    "static/js/2.a0540e31.chunk.js.LICENSE": "/aristotel.paraphrase/static/js/2.a0540e31.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53172e43.js",
+    "static/js/2.a0540e31.chunk.js",
+    "static/css/main.7926e81d.chunk.css",
+    "static/js/main.511eddaf.chunk.js"
+  ]
+}
