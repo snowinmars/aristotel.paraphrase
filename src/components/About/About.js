@@ -107,6 +107,29 @@ class About extends React.Component {
                             </CopyToClipboard>
                         </div>
                     </div>
+
+                    <h5>Скачать</h5>
+
+                    <div className={'chapter contacts'}>
+                        Парафраз: <a href={'http://localhost:5002/api/paraphrase/merge/download'}>txt</a>
+                    </div>
+
+                    <h5>API</h5>
+
+                    <ul>
+                        <li>
+                            <code>GET /api/paraphrase</code> - возвращает JSON парафраза без примечаний
+                        </li>
+                        <li>
+                            <code>GET /api/paraphrase/notes</code> - возвращает JSON примечаний к парафразу
+                        </li>
+                        <li>
+                            <code>GET /api/paraphrase/merge</code> - возвращает JSON парафраза с примечаниями
+                        </li>
+                        <li>
+                            <code>GET /api/paraphrase/merge/download</code> - возвращает текстовый файл парафраза с примечаниями
+                        </li>
+                    </ul>
                 </div>
             </div>
         )

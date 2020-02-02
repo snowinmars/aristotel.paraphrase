@@ -9,4 +9,5 @@ RUN sed -i "s/'ws'/window.location.protocol === 'https' ? 'wss' : 'ws'/" /app/no
 RUN yarn run build
 
 
-CMD ["serve", "-s", "/app/build"]
+#CMD ["serve", "-s", "/app/build"]
+CMD ["concurrently", "--kill-others-on-fail", "'yarn startserver'", "'yarn start'"]
