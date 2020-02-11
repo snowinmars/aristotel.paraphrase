@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/aristotel.paraphrase/static/css/main.7926e81d.chunk.css",
-    "main.js": "/aristotel.paraphrase/static/js/main.511eddaf.chunk.js",
-    "main.js.map": "/aristotel.paraphrase/static/js/main.511eddaf.chunk.js.map",
-    "runtime-main.js": "/aristotel.paraphrase/static/js/runtime-main.53172e43.js",
-    "runtime-main.js.map": "/aristotel.paraphrase/static/js/runtime-main.53172e43.js.map",
-    "static/js/2.a0540e31.chunk.js": "/aristotel.paraphrase/static/js/2.a0540e31.chunk.js",
-    "static/js/2.a0540e31.chunk.js.map": "/aristotel.paraphrase/static/js/2.a0540e31.chunk.js.map",
-    "index.html": "/aristotel.paraphrase/index.html",
-    "precache-manifest.b0994d38ecdbb197fdc02766eb7e5dc1.js": "/aristotel.paraphrase/precache-manifest.b0994d38ecdbb197fdc02766eb7e5dc1.js",
-    "service-worker.js": "/aristotel.paraphrase/service-worker.js",
-    "static/css/main.7926e81d.chunk.css.map": "/aristotel.paraphrase/static/css/main.7926e81d.chunk.css.map",
-    "static/js/2.a0540e31.chunk.js.LICENSE": "/aristotel.paraphrase/static/js/2.a0540e31.chunk.js.LICENSE"
+    "main.css": "/static/css/main.79a7f3fb.chunk.css",
+    "main.js": "/static/js/main.f618257e.chunk.js",
+    "main.js.map": "/static/js/main.f618257e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ee94def4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ee94def4.js.map",
+    "static/css/2.5c17b9f1.chunk.css": "/static/css/2.5c17b9f1.chunk.css",
+    "static/js/2.8d20e406.chunk.js": "/static/js/2.8d20e406.chunk.js",
+    "static/js/2.8d20e406.chunk.js.map": "/static/js/2.8d20e406.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e9901b295439019643044ea17cbb71a7.js": "/precache-manifest.e9901b295439019643044ea17cbb71a7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.5c17b9f1.chunk.css.map": "/static/css/2.5c17b9f1.chunk.css.map",
+    "static/css/main.79a7f3fb.chunk.css.map": "/static/css/main.79a7f3fb.chunk.css.map",
+    "static/js/2.8d20e406.chunk.js.LICENSE": "/static/js/2.8d20e406.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.53172e43.js",
-    "static/js/2.a0540e31.chunk.js",
-    "static/css/main.7926e81d.chunk.css",
-    "static/js/main.511eddaf.chunk.js"
+    "static/js/runtime-main.ee94def4.js",
+    "static/css/2.5c17b9f1.chunk.css",
+    "static/js/2.8d20e406.chunk.js",
+    "static/css/main.79a7f3fb.chunk.css",
+    "static/js/main.f618257e.chunk.js"
   ]
 }
